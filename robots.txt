@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: rankshadow-rankshadow-web/sitemap.xml
+Sitemap: https://rankshadow-rankshadow-web/sitemap.xml
